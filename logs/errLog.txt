@@ -1,0 +1,4 @@
+01-03-2023	00:36:02	7cf620bc-636d-4fd5-b1f9-007740fb9cfb	Error: Sorry Not allowed by the cors
+01-03-2023	00:36:36	f5678383-292c-43ca-87a5-5fa17b0b7532	ReferenceError: origin1 is not defined
+06-03-2023	01:58:49	19b83f5f-1963-423d-ad91-5b5519169bef	ReferenceError: err is not defined
+20230308	02:19:56	f6edb2d7-b03b-47a0-864e-e094d3a6cc65	SyntaxError: Unexpected token e in JSON at position 0
